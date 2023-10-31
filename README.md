@@ -41,7 +41,7 @@ In the provided example, the main function demonstrates how to use the Currency 
 If you want to contribute to this project, feel free to fork the repository, make improvements, and submit a pull request. We welcome contributions that enhance the functionality, usability, or documentation.
 
 ## 7. License <a name="license"></a>
-This code is provided under an open-source license. You can find the license information in the project repository.
+This code is provided under a MIT license. You can find the license information in the project repository.
 
 Feel free to use and modify the code for your needs. If you have any questions or encounter issues, please refer to the documentation or contact the maintainers.
 
